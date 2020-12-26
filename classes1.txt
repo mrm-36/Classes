@@ -1,0 +1,23 @@
+1. Definition
+	In object-oriented programming, a class is atemplate for creating objects, 
+	providing initial values for a state, and implementation of behavior.
+
+	When an object is created by a constructor of the class, the resulting object
+	is called an instance of the class, and the member variables specific to the object
+	are called tinstance variables.
+
+2. Declaration
+	In Python, we use "class class_name():" to declare a new class.
+
+3. Constructor
+	This is the function in the class that is automatically called when
+	a new object (instance) of this class is created.
+
+	In Python, this constructor is "def __init__(self):"
+
+	We usually use "self" to refer to the current object, but you could use
+	any name.
+
+4. Print
+	To print an instance of a class, we use the "def __str__(self):" function
+	to return a string representation of the object.

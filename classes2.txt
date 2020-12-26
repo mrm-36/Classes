@@ -1,0 +1,27 @@
+Welcome to a new Trial & Error Video !!!
+
+
+Last time we talked a little about classes, today we are going to expand this idea.
+
+Refresher
+1. Declaration: "class class_name():"
+2. Constructor: "def __init__(self, var1, var2, ...):"
+3. Print: "def __str__(self):"
+
+There are multiple built-in functions in Python that you could use to help you
+build and organize your class.
+
+4. Addition: "def __add__(self):" will get called when we use the plus '+' sign
+5. Multiplication: "def __mul__(self):" 
+6. Less Than: "def __lt__(self):"
+7. Less Than or equal: "def __le__(self):"
+8. Greater Than: "def __gt__(self):"
+9. Greater or Equal: "def __ge__(self):"
+
+And much more that you could check out on the official Python Documentation.
+
+
+Stay tuned for the next video on classes.
+
+SHARE, LIKE & SUBSCRIBE.
+See you next time.
